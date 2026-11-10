@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "skills": {
+    "scenario-test": {
+      "source": "duyiliu/scenario-test",
+      "ref": "v0.14.0",
+      "sourceType": "github",
+      "skillPath": "skills/scenario-test/SKILL.md",
+      "computedHash": "12af5afc254920be1187174f8f1674e8df79ea3970b24b8d3a659b4d0a09fb16"
+    }
+  }
+}

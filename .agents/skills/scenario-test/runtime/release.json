@@ -1,0 +1,11 @@
+{
+  "version": "0.14.0",
+  "package": "@yc_yzkj/scenario-test",
+  "source": "https://github.com/duyiliu/scenario-test/tree/v0.14.0",
+  "sha256": {
+    "scenario-test-cli.cjs": "2637035add5f88a3e4dbbdd188748fb70c76b83e0faf96ab79b9e17acabfcd5e",
+    "scenario-test.umd.js": "ef219d7fdb9f7eafd32c36a1136922af38f15f63857f3f75ecba6d285e33ba05",
+    "scenario-test.d.ts": "8a6c2372a9dc343ea132fd75f1d22ccec8d4168625ead4c936c218e44f1b361b",
+    "scenario-test-capabilities.json": "b067f78e6e34ba2f5abfe8bedbe766dc88e62cd753d9777a38873c972f9cc894"
+  }
+}
